@@ -1,0 +1,21 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    equalizer (0.0.11)
+    rom-mapper (0.2.0)
+      equalizer (~> 0.0, >= 0.0.10)
+      rom-support (~> 0.1, >= 0.1.0)
+      transproc (~> 0.3)
+    rom-support (0.1.0)
+      wisper (~> 1.6, >= 1.6.0)
+    transproc (0.3.2)
+    wisper (1.6.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rom-mapper
+
+BUNDLED WITH
+   1.10.6
